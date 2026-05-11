@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.8.19",
-   "Changelog": "• Group bug fix .\n• Connection stability.",
+  "LatestVersion": "1.8.20",
+   "Changelog": "• Random popup fix .\n• Connection stability.",
   "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/v2.0.0/NewWithKey.zip",
   "UpdateSize": "104 MB"
 }
