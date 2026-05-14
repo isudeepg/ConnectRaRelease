@@ -1,6 +1,5 @@
 {
-  "LatestVersion": "1.8.28.1",
-   "Changelog": "DO NOT UPDATE ITS A TEST \n• Some UI bug fix .\n• Performance Fixed.\n• Settings Page UI fixed.\n• Note: Manually delete C:/ Programfiles/ RemoteDesktopManager.exe is any",
-  "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/1.8.28/NewWithKey.zip",
+  "LatestVersion": "2.0.0",
+  "Changelog": "• Complete UI Redesign\n• Right-click on any PC in the Dashboard page to view PC health data\n• Fixed several UI issues\n• Performance improvements implemented\n• Updated and fixed the Settings page UI\n• Note: Please manually delete C:/Program Files/RemoteDesktopManager.exe if it exists"  "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/1.8.28/NewWithKey.zip",
   "UpdateSize": "108 MB"
 }
