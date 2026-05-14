@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.8.28",
-   "Changelog": "• Some UI bug fix .\n• Performance Fixed.\n• Settings Page UI fixed.\n• History Page Bug Fix",
+  "LatestVersion": "1.8.28.1",
+   "Changelog": "• Some UI bug fix .\n• Performance Fixed.\n• Settings Page UI fixed.\n• Note: Manually delete C:/ Programfiles/ RemoteDesktopManager.exe is any",
   "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/1.8.28/NewWithKey.zip",
   "UpdateSize": "108 MB"
 }
