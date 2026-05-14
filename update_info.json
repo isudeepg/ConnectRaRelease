@@ -1,5 +1,5 @@
 {
-  "LatestVersion": "2.0.3",
+  "LatestVersion": "2.0.2",
   "Changelog": "• Added PC Health Analysis from right-click menu\n• View detailed PC health and system information\n• Improved dashboard experience and UI stability\n• Fixed multiple UI issues and performance improvements",
   "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/v2.0.0/NewWithKey.zip",
   "UpdateSize": "118 MB"
