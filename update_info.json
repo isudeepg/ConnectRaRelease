@@ -1,6 +1,6 @@
 {
 "LatestVersion": "2.0.0",
 "Changelog": "• Complete UI Redesign\n• Right-click on any PC in the Dashboard page to view PC health data\n• Fixed several UI issues\n• Performance improvements implemented\n• Updated and fixed the Settings page UI\n• Note: Please manually delete C:/Program Files/RemoteDesktopManager.exe if it exists",
-"DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/1.8.28/NewWithKey.zip",
+"DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/v2.0.0/NewWithKey.zip",
 "UpdateSize": "118 MB"
 }
