@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "2.0.6",
-  "Changelog": "Fix Sameez reported bug \n• Fixed the sidebar toggle button to correctly collapse/expand the menu and update UI elements (width, icons, and text visibility)",
+  "LatestVersion": "2.5.0",
+  "Changelog": "• Fixed the sidebar toggle button to correctly collapse/expand the menu and update UI elements",
   "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/v2.0.0/NewWithKey.zip",
-  "UpdateSize": "120 MB"
+  "UpdateSize": "90 MB"
 }
