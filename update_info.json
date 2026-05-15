@@ -1,6 +1,6 @@
 {
   "LatestVersion": "2.0.5",
-  "Changelog": "• Added PC Health Analysis from right-click menu\n• View detailed PC health and system information\n• Improved dashboard experience and UI stability\n• Fixed multiple UI issues and performance improvements",
+  "Changelog": "Fix Sameez reported bug \n• Fixed the sidebar toggle button to correctly collapse/expand the menu and update UI elements (width, icons, and text visibility)",
   "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/v2.0.0/NewWithKey.zip",
-  "UpdateSize": "118 MB"
+  "UpdateSize": "120 MB"
 }
