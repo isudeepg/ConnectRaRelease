@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "2.5.12",
-  "Changelog": "  > This is Test Build bug might be there < \n• Full screen minimise button.\n• Stability fix \n• File Sending Speed improved ",
-  "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/v2.0.2/NewWithKey.zip",
+  "LatestVersion": "2.5.14",
+  "Changelog": "  > This is Test Build bug might be there < \n• Password Hide.\n• New Group UI change(setting-turn on)",
+  "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/2.5.14/NewWithKey.zip",
   "UpdateSize": "88 MB"
 }
