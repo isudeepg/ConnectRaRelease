@@ -1,6 +1,6 @@
 {
   "LatestVersion": "2.5.20",
-"Changelog": "\n• Send Message on Active RDP (right click on pc card).\n• Transparent folder UI (enable in settings).\n• Massive speed improvements.",
+"Changelog": "• Send Message on Active RDP (right click on pc card).\n• Transparent folder UI (enable in settings).\n• Massive speed improvements.",
   "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/2.5.14/NewWithKey.zip",
   "UpdateSize": "88 MB"
 }
