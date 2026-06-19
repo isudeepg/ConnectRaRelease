@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "2.5.20",
-"Changelog": "• Send Message on Active RDP (right click on pc card).\n• Transparent folder UI (enable in settings).\n• Massive speed improvements.",
-  "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/2.5.14/NewWithKey.zip",
+  "LatestVersion": "2.5.25",
+"Changelog": "• Added Ctrl + Spacebar global hotkey for Quick Connect RDP.\n• Fixed an issue where background tab disconnects would interrupt your active session.\n• Improved stability for background RDP sessions.",
+  "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/2.5.25/NewWithKey.zip",
   "UpdateSize": "88 MB"
 }
