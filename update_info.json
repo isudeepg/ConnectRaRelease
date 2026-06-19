@@ -1,5 +1,6 @@
 {
   "LatestVersion": "2.5.25",
-"Changelog": "• Added Ctrl + Spacebar global hotkey for Quick Connect RDP.\n• Added a Screenshot button on the active PC screen (next to the minimize button).\n• Added support for Multi-Monitor remote PCs.\n• Fixed an issue where background tab disconnects would interrupt your active session.\n• Massive speed improvements.", "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/2.5.25/NewWithKey.zip",
+"Changelog": "• Added Ctrl + Spacebar global hotkey for Quick Connect RDP.\n• Added a Screenshot button on the active PC screen (next to the minimize button).\n• Added support for Multi-Monitor remote PCs.\n• Fixed an issue where background tab disconnects would interrupt your active session.\n• Massive speed improvements.",
+  "DownloadUrl": "https://github.com/isudeepg/ConnectRaRelease/releases/download/2.5.25/NewWithKey.zip",
   "UpdateSize": "88 MB"
 }
